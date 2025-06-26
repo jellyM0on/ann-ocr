@@ -9,9 +9,11 @@
 
 ### Demo
 
-https://github.com/user-attachments/assets/4d2f0982-69c2-4bc0-8dfb-18285c707cf9
 
-- We can observe that it can predict a deformed '4' character correctly 
+https://github.com/user-attachments/assets/ef24f7a3-092d-4597-9f8b-031f1b59987f
+
+- It can predict 1, 2, 3 ,4 accurately
+- We can observe that it can even predict a deformed '4' character correctly 
 
 ### Set up 
 - mac
