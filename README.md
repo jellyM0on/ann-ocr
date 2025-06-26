@@ -13,5 +13,24 @@ https://github.com/user-attachments/assets/4d2f0982-69c2-4bc0-8dfb-18285c707cf9
 
 - We can observe that it can predict a deformed '4' character correctly 
 
+### Set up 
+- mac
+```
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+
+python3 main.py
+```
+
+- windows
+```
+python -m venv venv
+venv\Scripts\activate
+pip install -r requirements.txt
+
+python main.py
+```
+
 
 
